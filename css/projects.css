@@ -1,0 +1,14 @@
+.projects__header {
+  background-color: white;
+}
+
+.projects__title {
+  background-color: white;
+  width: 50%;
+}
+
+.project_section {
+  width: 80%;
+  background-color: khaki;
+  margin: 0 auto;
+}
